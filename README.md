@@ -1,2 +1,2 @@
-# Encryptix_Task_1
+# Landing Page
 A landing page is a perfect web development project for beginners. 
